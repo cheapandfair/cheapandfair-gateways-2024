@@ -6,6 +6,10 @@ The tutorial at Gateways 2024 is scheduled for September 30th, 2024.
 
 ## Gateways 2024 Tutorial Setup
 
+Please go through the steps below to ensure you can access the necessary resources during the tutorial.
+
+Note: You may want to open the links in a new browser tab or window as you go through each step[^1].
+
 - [GitHub Account](#GitHub-Account)
 - [Globus Account](#Globus-Account)
 - [Join ourGlobus Group](#Join-our-Globus-Group)
@@ -59,3 +63,5 @@ Links:
 Links:
 
 - <a target="_blank" href="https://app.globus.org/groups/fad784e0-67dd-11ef-87ff-09715fb135c2/join">https://app.globus.org/groups/fad784e0-67dd-11ef-87ff-09715fb135c2/join</a>
+
+[^1]: Unfortunately, you [can't use `target="_blank"`](https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank) in GitHub Markdown.
